@@ -1,0 +1,118 @@
+<assets id="0" number="18">
+	<appliances>
+		<app>
+			<penetration id="0" number="0.7" />
+			<power id="n" mean="0.5" std="0.05" />
+			<duration id="0" number="4" />
+			<start id="n" mean="7.0" std="1.0" /> 
+		</app>
+		<app>
+			<penetration id="0" number="0.7" />
+			<power id="n" mean="0.5" std="0.05" />
+			<duration id="0" number="4" />
+			<start id="n" mean="14.0" std="3.0" /> 
+		</app>
+		<app>
+			<penetration id="0" number="0.7" />
+			<power id="n" mean="0.5" std="0.05" />
+			<duration id="0" number="4" />
+			<start id="n" mean="17.0" std="1.0" /> 
+		</app>
+		
+		<app>
+			<penetration id="0" number="0.5" />
+			<power id="n" mean="0.75" std="0.10" />
+			<duration id="0" number="3" />
+			<start id="n" mean="7.0" std="1.0" /> 
+		</app>
+		<app>
+			<penetration id="0" number="0.5" />
+			<power id="n" mean="0.75" std="0.10" />
+			<duration id="0" number="3" />
+			<start id="n" mean="14.0" std="3.0" /> 
+		</app>
+		<app>
+			<penetration id="0" number="0.5" />
+			<power id="n" mean="0.75" std="0.10" />
+			<duration id="0" number="3" />
+			<start id="n" mean="17.0" std="1.0" /> 
+		</app>
+		
+		<app>
+			<penetration id="0" number="0.3" />
+			<power id="n" mean="1.0" std="0.20" />
+			<duration id="0" number="2" />
+			<start id="n" mean="7.0" std="1.0" /> 
+		</app>
+		<app>
+			<penetration id="0" number="0.3" />
+			<power id="n" mean="1.0" std="0.20" />
+			<duration id="0" number="2" />
+			<start id="n" mean="14.0" std="3.0" /> 
+		</app>
+		<app>
+			<penetration id="0" number="0.3" />
+			<power id="n" mean="1.0" std="0.20" />
+			<duration id="0" number="2" />
+			<start id="n" mean="17.0" std="1.0" /> 
+		</app>
+		
+		<app>
+			<penetration id="0" number="1.0" />
+			<power id="n" mean="0.25" std="0.01" />
+			<duration id="0" number="8" />
+			<start id="n" mean="7.0" std="1.0" /> 
+		</app>
+		<app>
+			<penetration id="0" number="1.0" />
+			<power id="n" mean="0.25" std="0.01" />
+			<duration id="0" number="8" />
+			<start id="n" mean="14.0" std="3.0" /> 
+		</app>
+		<app>
+			<penetration id="0" number="1.0" />
+			<power id="n" mean="0.25" std="0.01" />
+			<duration id="0" number="8" />
+			<start id="n" mean="17.0" std="1.0" /> 
+		</app>
+		
+		<app>
+			<penetration id="0" number="0.1" />
+			<power id="n" mean="1.5" std="0.3" />
+			<duration id="0" number="2" />
+			<start id="n" mean="7.0" std="1.0" /> 
+		</app>
+		<app>
+			<penetration id="0" number="0.1" />
+			<power id="n" mean="1.5" std="0.3" />
+			<duration id="0" number="2" />
+			<start id="n" mean="14.0" std="3.0" /> 
+		</app>
+		<app>
+			<penetration id="0" number="0.1" />
+			<power id="n" mean="1.5" std="0.3" />
+			<duration id="0" number="2" />
+			<start id="n" mean="17.0" std="1.0" /> 
+		</app>
+		
+		<app>
+			<penetration id="0" number="0.8" />
+			<power id="n" mean="0.4" std="0.05" />
+			<duration id="0" number="6" />
+			<start id="n" mean="7.0" std="1.0" /> 
+		</app>
+		<app>
+			<penetration id="0" number="0.8" />
+			<power id="n" mean="0.4" std="0.05" />
+			<duration id="0" number="6" />
+			<start id="n" mean="14.0" std="3.0" /> 
+		</app>
+		<app>
+			<penetration id="0" number="0.8" />
+			<power id="n" mean="0.4" std="0.05" />
+			<duration id="0" number="6" />
+			<start id="n" mean="17.0" std="1.0" /> 
+		</app>
+	</appliances>
+	<!-- TODO: other asset types -->
+</assets>

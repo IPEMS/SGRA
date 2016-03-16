@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python sgra_sim_parallel.py -f "../scenarios/sgra_base/pjm_5555/garch_sensitivity.txt" -o "../scenarios/sgra_base/pjm_5555/out_garch/" -n 1 

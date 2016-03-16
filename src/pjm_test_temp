@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./sim -f ../scenarios/sgra_base/pjm_5555/pjm_5555_temp.xml -o ../scenarios/sgra_base/pjm_5555/out_temp/
